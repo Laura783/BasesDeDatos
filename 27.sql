@@ -1,0 +1,2 @@
+DELETE FROM AutoPLSQL
+WHERE id_auto = 4;
