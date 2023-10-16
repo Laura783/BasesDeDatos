@@ -1,0 +1,3 @@
+SELECT * 
+FROM AlquilerPLSQL 
+ORDER BY precio ASC LIMIT 1;
